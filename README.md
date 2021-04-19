@@ -29,6 +29,15 @@ A deep learning neural network is designed and trained, using python’s tensorf
 
 ## Results
 
+### Data Preprocessing
+* **What variable(s) are considered the target(s) for the model?** 
+* **What variable(s) are considered to be the features for the model?**
+* **What variable(s) are neither targets nor features, and should be removed from the input data?**
+
+### Compiling, Training, and Evaluating the Model
+* **How many neurons, layers, and activation functions were selected for the neural network model, and why?
+* **Was target model performance achieved?**
+* **What steps were taken to try and increase model performance?**
 
 
 ## Summary

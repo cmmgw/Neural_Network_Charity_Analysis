@@ -31,7 +31,6 @@ A deep learning neural network is designed and trained, using python’s tensorf
 
 ### Data Preprocessing
 * **What variable(s) are considered the target(s) for the model?** The "IS_SUCCESSFUL" column is the target, as it contains data on whether the donations were used effectively. The target variable is the dependent variable, y.  
-* **What variable(s) are considered to be the features for the model?** The target variable is the dependent variable, y. 
 * **What variable(s) are considered to be the features for the model?** The following variables are considered to be the features for the model: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT. These variables are the independent variables, x.
 * **What variable(s) are neither targets nor features, and should be removed from the input data?** The identification columns EIN and NAME were dropped, as they are not beneficial when completing the analysis.
 

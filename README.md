@@ -35,7 +35,8 @@ A deep learning neural network is designed and trained, using python’s tensorf
 * **What variable(s) are neither targets nor features, and should be removed from the input data?** The identification columns EIN and NAME were dropped, as they are not beneficial when completing the analysis.
 
 ### Compiling, Training, and Evaluating the Model
-* **How many neurons, layers, and activation functions were selected for the neural network model, and why?** For the deep neural network model, 80 neurons were in the first hidden layer and 30 neurons were in the second hidden layer. The ReLU activation function was utilized on both hidden layers. An advantage for using the ReLU activation function is that it identifies nonlinear characteristics from the input values. If the output of the linear transformation is less than 0, the neurons will be deactivated.* **Was target model performance achieved?** Performance of 75% accuracy was not achieved by the target model, as it attained 73.78%. 
+* **How many neurons, layers, and activation functions were selected for the neural network model, and why?** For the deep neural network model, 80 neurons were in the first hidden layer and 30 neurons were in the second hidden layer. The ReLU activation function was utilized on both hidden layers. An advantage for using the ReLU activation function is that it identifies nonlinear characteristics from the input values. If the output of the linear transformation is less than 0, the neurons will be deactivated. 
+* **Was target model performance achieved?** Performance of 75% accuracy was not achieved by the target model, as it attained 73.78%. 
 * **What steps were taken to try and increase model performance?**
 
 

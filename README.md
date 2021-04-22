@@ -41,4 +41,4 @@ A deep learning neural network is designed and trained, using python’s tensorf
 
 
 ## Summary
-Despite attempting to optimize the model four times, performance of 75% was not achieved. 
+Despite attempting to optimize the model four times, performance of 75% was not achieved. In an attempt to optimize model accuracy, it is recommended to adjust the number of hidden layers and neurons, along with the corresponding activation functions for each layer.

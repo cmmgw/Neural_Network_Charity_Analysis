@@ -37,7 +37,7 @@ A deep learning neural network is designed and trained, using python’s tensorf
 
 ### Compiling, Training, and Evaluating the Model
 * **How many neurons, layers, and activation functions were selected for the neural network model, and why?**
-* **Was target model performance achieved?**
+* **Was target model performance achieved?** Performance of 75% accuracy was not achieved by the target model, as it attained 73.78%. 
 * **What steps were taken to try and increase model performance?**
 
 

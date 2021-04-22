@@ -41,3 +41,4 @@ A deep learning neural network is designed and trained, using python’s tensorf
 
 
 ## Summary
+Despite attempting to optimize the model four times, performance of 75% was not achieved. 
